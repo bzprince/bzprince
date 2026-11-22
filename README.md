@@ -55,4 +55,12 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h06.svg?v=8" width="100%" alt="contributions.log" />
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/output/snake.svg" width="100%" alt="Contribution snake" />
+</p>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/footer.svg?v=6" width="100%" alt="thanks for visiting" />
