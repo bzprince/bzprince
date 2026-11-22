@@ -38,7 +38,6 @@
 <tr>
 <td><a href="https://bz-protfolio.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/p1.svg" width="260" alt="Portfolio Website" /></a></td>
 <td><a href="https://github.com/bzprince?tab=repositories"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/p2.svg" width="260" alt="UI/UX Designs" /></a></td>
-<td><a href="https://github.com/bzprince?tab=repositories"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/p3.svg" width="260" alt="Next Project" /></a></td>
 </tr>
 </table>
 
