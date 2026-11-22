@@ -1,33 +1,65 @@
-esc=CSE%20Student%20%7C%20Designer%20%7C%20Turning%20ideas%20into%20intuitive%20interfaces&descSize=16&descAlignY=58" width="100%" alt="Banner" />
 <div align="center">
-![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=netlify&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:a855f7&height=220&section=header&text=Badhruz%20Zaman&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=aka%20Prince&descSize=18&descAlignY=60" width="100%" alt="Banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=640&height=45&lines=CSE+Student;UI%2FUX+%26+Graphic+Designer;Front-end+Learner;Open+to+Internships+%26+Collaboration" alt="Typing intro" />
+
+<br/>
+
+<a href="https://bz-protfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/badhruz-zaman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/b.zaman.prince"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/bz._.prince/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:bzprince07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
----
-👋 About Me
-I'm Badhruz Zaman (aka Prince), a Computer Science & Engineering undergraduate based in Dhaka, Bangladesh. I enjoy designing clean, user-focused interfaces and learning how to bring them to life with code.
-🎓 Studying Computer Science & Engineering
-🎨 Designing UI/UX & graphics
-💻 Learning front-end development
-🤝 Open to internships & collaboration
-🛠️ Tools & Skills
-<div align="center">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,html,css,js,git,github,vscode" alt="Skills" />
-</div>
-> ✏️ *Edit the icon list above to match your real skills. Full icon list: [skillicons.dev](https://skillicons.dev)*
-📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bzprince&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bzprince&theme=radical&hide_border=true" height="160" alt="Streak" />
-</div>
-🚀 Currently
-🔭 Building projects to grow my portfolio
-🌱 Learning web development & modern UI design
-📫 Reach me via LinkedIn
----
-<div align="center">
-⭐ Thanks for visiting my profile!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
-</div>
+
+<br/>
+
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+I'm a <b>Computer Science &amp; Engineering</b> undergraduate from Dhaka, Bangladesh.<br/>
+I design clean, user-focused interfaces and I'm learning to bring them to life with code.
+</p>
+
+<table align="center">
+<tr>
+<td align="center">🎓<br/><b>Studying</b><br/>CSE</td>
+<td align="center">🎨<br/><b>Designing</b><br/>UI/UX &amp; Graphics</td>
+<td align="center">💻<br/><b>Learning</b><br/>Front-end Dev</td>
+<td align="center">🤝<br/><b>Open to</b><br/>Internships</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">🛠️ Tools &amp; Skills</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,vscode&theme=dark" alt="Skills" />
+</p>
+
+<br/>
+
+<h2 align="center">🔥 Activity</h2>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=bzprince&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=E9D5FF&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA&background=00000000" alt="Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bzprince&bg_color=0d1117&color=c4b5fd&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" width="95%" />
+</p>
+
+<br/>
+
+<h2 align="center">🚀 Currently</h2>
+
+<p align="center">
+🔭 Building projects to grow my portfolio<br/>
+🌱 Learning web development &amp; modern UI design<br/>
+📫 Reach me on <a href="https://www.linkedin.com/in/badhruz-zaman/">LinkedIn</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:1e1b4b&height=120&section=footer" width="100%" alt="Footer" />
