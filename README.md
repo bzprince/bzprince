@@ -58,7 +58,7 @@
 <img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h06.svg?v=8" width="100%" alt="contributions.log" />
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/output/snake.svg" width="100%" alt="Contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bzprince&bg_color=07110b&color=9be58d&line=4da33e&point=ffffff&area=true&area_color=104d2b&hide_border=true&radius=14&title_color=4da33e" width="100%" alt="Contribution graph" />
 </p>
 
 <br/>
