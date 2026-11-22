@@ -18,33 +18,41 @@
 
 <img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h01.svg" width="100%" alt="about.me" />
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/terminal.svg" width="780" alt="about.js" />
-</p>
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/terminal.svg" width="100%" alt="about.js" />
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h02.svg" width="100%" alt="skills.json" />
 
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/skills.svg" width="100%" alt="Skills" />
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,vscode&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,vscode&theme=dark" alt="Skill icons" />
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h03.svg" width="100%" alt="activity.log" />
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h03.svg" width="100%" alt="projects.json" />
+
+<table align="center">
+<tr>
+<td><a href="https://bz-protfolio.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/p1.svg" width="260" alt="Portfolio Website" /></a></td>
+<td><a href="https://github.com/bzprince?tab=repositories"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/p2.svg" width="260" alt="UI/UX Designs" /></a></td>
+<td><a href="https://github.com/bzprince?tab=repositories"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/p3.svg" width="260" alt="Next Project" /></a></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h04.svg" width="100%" alt="activity.log" />
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=bzprince&theme=transparent&hide_border=true&ring=4DA33E&fire=4DA33E&currStreakLabel=4DA33E&sideLabels=7FC572&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F9A76&background=00000000" alt="Streak" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bzprince&bg_color=07110b&color=7fc572&line=4da33e&point=ffffff&area=true&area_color=104d2b&hide_border=true" alt="Activity graph" width="95%" />
-</p>
-
 <br/>
 
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h04.svg" width="100%" alt="now.sh" />
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h05.svg" width="100%" alt="now.sh" />
 
 <p align="center">
 <code>git checkout -b learning</code> 🌱 Front-end &amp; modern UI<br/><br/>
@@ -52,6 +60,4 @@
 <code>git push origin opportunities</code> 🤝 Open to internships &amp; collaboration
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4da33e,100:104d2b&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4da33e,100:104d2b&height=80&section=footer" width="100%" alt="Footer" />
