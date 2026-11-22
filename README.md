@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://bz-protfolio.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/6portfolio.svg?v=6" height="40" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/badhruz-zaman/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/7linkedin.svg?v=6" height="40" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/b.zaman.prince"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/8facebook.svg?v=6" height="40" alt="Facebook" /></a>
-<a href="https://www.instagram.com/bz._.prince/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/9instagram.svg?v=6" height="40" alt="Instagram" /></a>
-<a href="mailto:bzprince07@gmail.com"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/10email.svg?v=6" height="40" alt="Email" /></a>
+<a href="https://bz-protfolio.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/6portfolio.svg?v=7" height="40" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/badhruz-zaman/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/7linkedin.svg?v=7" height="40" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/b.zaman.prince"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/8facebook.svg?v=7" height="40" alt="Facebook" /></a>
+<a href="https://www.instagram.com/bz._.prince/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/9instagram.svg?v=7" height="40" alt="Instagram" /></a>
+<a href="mailto:bzprince07@gmail.com"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/10email.svg?v=7" height="40" alt="Email" /></a>
 
 </div>
 
