@@ -57,7 +57,7 @@
 
 <img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h06.svg?v=8" width="100%" alt="contributions.log" />
 
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/11contrib.svg?v=9" width="100%" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/city.svg?v=1" width="100%" alt="Contribution city" />
 
 <br/>
 
