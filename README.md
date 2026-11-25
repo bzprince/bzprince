@@ -1,64 +1,73 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/banner.svg?v=4" width="100%" alt="Badhruz Zaman" />
-
-<br/>
-
-<a href="https://bz-protfolio.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/6portfolio.svg?v=7" height="40" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/badhruz-zaman/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/7linkedin.svg?v=7" height="40" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/b.zaman.prince"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/8facebook.svg?v=7" height="40" alt="Facebook" /></a>
-<a href="https://www.instagram.com/bz._.prince/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/9instagram.svg?v=7" height="40" alt="Instagram" /></a>
-<a href="mailto:bzprince07@gmail.com"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/10email.svg?v=7" height="40" alt="Email" /></a>
-
+<img src="./assets/hero.svg" alt="Badhruz Zaman. CSE student, UI/UX designer and front-end learner. Open to internships." width="100%">
+<p>
+  <a href="https://bz-protfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1F3A27?style=flat&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/badhruz-zaman"><img src="https://img.shields.io/badge/LinkedIn-1F3A27?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bzprince07@gmail.com"><img src="https://img.shields.io/badge/Email-1F3A27?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/b.zaman.prince"><img src="https://img.shields.io/badge/Facebook-1F3A27?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/bz_._prince"><img src="https://img.shields.io/badge/Instagram-1F3A27?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h01.svg?v=3" width="100%" alt="about.me" />
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/terminal.svg?v=5" width="100%" alt="about.js" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h02.svg?v=3" width="100%" alt="skills.json" />
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/skills.svg?v=4" width="100%" alt="Skills" />
-
+~/projects.json
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="TODO-RENO-LIVE-URL"><img src="./assets/shots/reno.svg" alt="RENO Fragrance website preview"></a>
+      <h3>RENO Fragrance</h3>
+      <p>Luxury store for international perfumes and oriental attars, with a scent finder.</p>
+      <p><code>Web</code> <code>Design</code> <code>Cart</code></p>
+      <p><a href="TODO-RENO-LIVE-URL"><b>View live</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="TODO-HISHABHUB-LIVE-URL"><img src="./assets/shots/hishabhub.svg" alt="HishabHub dashboard preview"></a>
+      <h3>HishabHub</h3>
+      <p>Control center for small businesses: products, orders, expenses and profit.</p>
+      <p><code>Web App</code> <code>Business</code></p>
+      <p><a href="TODO-HISHABHUB-LIVE-URL"><b>View live</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="TODO-STUDYFORGE-LIVE-URL"><img src="./assets/shots/studyforge.svg" alt="StudyForge planner preview"></a>
+      <h3>StudyForge</h3>
+      <p>AI study planner: exam dates and subjects become a schedule plus a focus timer.</p>
+      <p><code>Web App</code> <code>AI</code> <code>Planner</code></p>
+      <p><a href="TODO-STUDYFORGE-LIVE-URL"><b>View live</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://bzprince.github.io/nojs-ui/"><img src="./assets/shots/nojs-ui.svg" alt="nojs-ui modal component preview"></a>
+      <h3>nojs-ui</h3>
+      <p>Modal, drawer, menu, tabs and accordion in pure HTML and CSS. No JavaScript.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Open source</code></p>
+      <p><a href="https://bzprince.github.io/nojs-ui/"><b>View demo</b></a> · <a href="https://github.com/bzprince/nojs-ui">Source</a></p>
+    </td>
+  </tr>
+</table>
+Next project is in progress.
+~/skills.json
+Design	Web	Tools
+Figma<br>Canva<br>Branding	HTML<br>CSS<br>JavaScript	VS Code<br>Git<br>GitHub
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,vscode&theme=dark" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,vscode" alt="Figma, HTML, CSS, JavaScript, Git, GitHub, VS Code">
 </p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h03.svg?v=3" width="100%" alt="projects.json" />
-
+~/about.js
+```js
+const prince = {
+  studying: "CSE @ UIU",
+  location: "Dhaka, Bangladesh",
+  focus: ["Web", "UI/UX", "Branding"],
+  learning: ["JavaScript", "modern CSS"],
+  openToWork: true,
+};
+```
+~/now.sh
+```bash
+$ git checkout -b learning        # front-end & modern UI
+$ git commit -m "build projects"  # growing my portfolio
+$ git push origin opportunities   # open to internships & collaboration
+```
+~/contributions.log
 <p align="center">
-<a href="https://renofragrancebd.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/2reno.svg?v=6" width="49%" alt="RENO Fragrance" /></a>
-<a href="https://hishabhub.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/3hishab.svg?v=6" width="49%" alt="HishabHub" /></a>
-<a href="https://studyforgebd.netlify.app/"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/4study.svg?v=6" width="49%" alt="StudyForge" /></a>
-<a href="https://github.com/bzprince?tab=repositories"><img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/5next.svg?v=6" width="49%" alt="Next Project" /></a>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D view of my GitHub contributions over the last year" width="100%">
 </p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h04.svg?v=3" width="100%" alt="activity.log" />
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=bzprince&theme=transparent&hide_border=true&ring=4DA33E&fire=4DA33E&currStreakLabel=4DA33E&sideLabels=7FC572&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F9A76&background=00000000" alt="Streak" />
-</p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h05.svg?v=3" width="100%" alt="now.sh" />
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/now.svg?v=6" width="100%" alt="now.sh" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/h06.svg?v=8" width="100%" alt="contributions.log" />
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/city.svg?v=1" width="100%" alt="Contribution city" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bzprince/bzprince/main/assets/footer.svg?v=6" width="100%" alt="thanks for visiting" />
+<p align="center">Thanks for visiting.</p>
