@@ -74,7 +74,7 @@
   </g>
 
   <!-- left content -->
-  <text class="up" x="60" y="92" font-size="18" fill="#5b7a62" style="animation-delay:.1s">// hello, world — i am</text>
+  <text class="up" x="60" y="92" font-size="18" fill="#5b7a62" style="animation-delay:.1s">// hello world! I am</text>
   <text class="up" x="60" y="170" font-size="64" font-weight="700" fill="url(#name)" style="animation-delay:.4s">Badhruz Zaman</text>
   <text class="up" x="62" y="215" font-size="21" fill="#d7efd3" style="animation-delay:.8s">CSE Student  <tspan fill="#4da33e">•</tspan>  UI/UX Designer  <tspan fill="#4da33e">•</tspan>  Front-end Learner</text>
 
